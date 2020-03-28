@@ -2,14 +2,15 @@
 This is a showcase of certificates that I have been awarded on completion of several MOOCs from different platforms.
 
 
+### Deep Learning Specialization by deeplearning.ai on [Coursera](https://www.coursera.org/specializations/deep-learning)
+
+![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/deep-learning/dl.JPG "Deep Learning Specialization")
+
+
 ### Machine Learning by Stanford University on [Coursera](https://www.coursera.org/learn/machine-learning)
 
 ![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/machine-learning/ml.JPG "Machine Learning Course")
 
-
-### Deep Learning Specialization by deeplearning.ai on [Coursera](https://www.coursera.org/specializations/deep-learning)
-
-![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/deep-learning/dl.JPG "Deep Learning Specialization")
 
 ### An Introduction to Programming the Internet of Things (IoT) Specialization by UCI on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
 
