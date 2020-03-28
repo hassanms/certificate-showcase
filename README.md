@@ -6,10 +6,14 @@ This is a showcase of certificates that I have been awarded on completion of sev
 
 ![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/deep-learning-specialization/dl.JPG "Deep Learning Specialization")
 
+Please visit [this](https://www.coursera.org/account/accomplishments/specialization/AKUJJH6U7Q6N) for verification
+
 
 ### Machine Learning by Stanford University on [Coursera](https://www.coursera.org/learn/machine-learning)
 
 ![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/machine-learning/ml.JPG "Machine Learning Course")
+
+Please visit [this](https://www.coursera.org/account/accomplishments/records/393YAJRCN6XH) for verification
 
 
 ### An Introduction to Programming the Internet of Things (IoT) Specialization by UCI on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
