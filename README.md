@@ -7,6 +7,10 @@ This is a showcase of certificates that I have been awarded on completion of sev
 ![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/machine-learning/ml.JPG "Machine Learning Course")
 
 
+### Deep Learning Specialization by deeplearning.ai on [Coursera](https://www.coursera.org/specializations/deep-learning)
+
+![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/deep-learning/dl.JPG "Deep Learning Specialization")
+
 ### An Introduction to Programming the Internet of Things (IoT) Specialization by UCI on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
 
 ##### 1. Introduction to the Internet of Things and Embedded Systems [[Proof](https://www.coursera.org/account/accomplishments/records/GJUBRQAKF5Q7)]
