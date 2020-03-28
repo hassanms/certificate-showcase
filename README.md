@@ -9,11 +9,18 @@ This is a showcase of certificates that I have been awarded on completion of sev
 Please visit [this](https://www.coursera.org/account/accomplishments/specialization/AKUJJH6U7Q6N) for verification
 
 
-### Machine Learning by Stanford University on [Coursera](https://www.coursera.org/learn/machine-learning)
+### Machine Learning Course by Stanford University on [Coursera](https://www.coursera.org/learn/machine-learning)
 
 ![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/machine-learning/ml.JPG "Machine Learning Course")
 
 Please visit [this](https://www.coursera.org/account/accomplishments/records/393YAJRCN6XH) for verification
+
+
+### Computer Vision and Image Analysis Course by Microsoft on [edX](https://www.edx.org/course/computer-vision-and-image-analysis-2)
+
+![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/computer-vision-image-analysis/microsoft-dev290x.JPG "Computer Vision and Image Analysis Course")
+
+Please visit [this](https://courses.edx.org/certificates/be039f974c594b2e88c038f60e3bde6f) for verification
 
 
 ### An Introduction to Programming the Internet of Things (IoT) Specialization by UCI on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
@@ -33,3 +40,15 @@ Please visit [this](https://www.coursera.org/account/accomplishments/records/393
 ##### 4. The Raspberry Pi Platform and Python Programming for the Raspberry Pi [[Proof](https://www.coursera.org/account/accomplishments/records/58QH5UBEQYUH)]
 
 ![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c4-iot-spz.JPG "Course 1 IoT Specialization")
+
+
+### Internet of Things (IoT) MicroMasters by Curtin University on [edX](https://www.edx.org/micromasters/curtinx-internet-of-things-iot) -- *Not Completed*
+
+##### 1. Introduction to the Internet of Things (IoT) [[Proof](https://courses.edx.org/certificates/b1d59bb32bf9433cbd8bda72980fb79a)]
+
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-micromasters/c4-iot-spz.JPG "Course 1 IoT MicroMasters")
+
+##### 2. IoT Programming and Big Data [[Proof](https://courses.edx.org/certificates/6d2809c265a14725a8fd5ec62a6e6361)]
+
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-micromasters/c4-iot-spz.JPG "Course 4 IoT MicroMasters")
+
