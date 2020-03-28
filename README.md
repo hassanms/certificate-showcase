@@ -4,7 +4,7 @@ This is showcase of certificate that I have been awarded on completion of severa
 
 ### An Introduction to Programming the Internet of Things (IoT) Specialization on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
 
-##### 1. Introduction to the Internet of Things and Embedded Systems [<a href="https://www.coursera.org/account/accomplishments/records/GJUBRQAKF5Q7" target="_blank">Proof</a>]
+##### 1. Introduction to the Internet of Things and Embedded Systems [[Proof](https://www.coursera.org/account/accomplishments/records/GJUBRQAKF5Q7){:target="_blank"}]
 
 ![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c1-iot-spz.JPG "Course 1 IoT Specialization")
 
