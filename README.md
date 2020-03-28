@@ -1,5 +1,5 @@
 # Certificate Showcase
-This is showcase of certificate that I have been awarded on completion of several MOOCs from different platforms.
+This is a showcase of certificates that I have been awarded on completion of several MOOCs from different platforms.
 
 
 ### An Introduction to Programming the Internet of Things (IoT) Specialization on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
