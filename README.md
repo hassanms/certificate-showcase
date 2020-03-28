@@ -6,6 +6,6 @@ This is showcase of certificate that I have been awarded on completion of severa
 
 ##### 1. Introduction to the Internet of Things and Embedded Systems [[Proof](https://www.coursera.org/account/accomplishments/verify/GJUBRQAKF5Q7)]
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Course 1 IoT Specialization")
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c1-iot-spz.JPG "Course 1 IoT Specialization")
 
 ##### 2. 
