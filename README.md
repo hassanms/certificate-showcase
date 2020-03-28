@@ -2,7 +2,7 @@
 This is a showcase of certificates that I have been awarded on completion of several MOOCs from different platforms.
 
 
-### An Introduction to Programming the Internet of Things (IoT) Specialization on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
+### An Introduction to Programming the Internet of Things (IoT) Specialization by UCI on [Coursera](https://www.coursera.org/specializations/iot) -- *In Progress*
 
 ##### 1. Introduction to the Internet of Things and Embedded Systems [[Proof](https://www.coursera.org/account/accomplishments/records/GJUBRQAKF5Q7)]
 
