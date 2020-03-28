@@ -31,24 +31,24 @@ Please visit [this](https://courses.edx.org/certificates/be039f974c594b2e88c038f
 
 ##### 2. The Arduino Platform and C Programming [[Proof](https://www.coursera.org/account/accomplishments/records/SNMU9T546M7R)]
 
-![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c2-iot-spz.JPG "Course 1 IoT Specialization")
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c2-iot-spz.JPG "Course 2 IoT Specialization")
 
 ##### 3. Interfacing with the Arduino [[Proof](https://www.coursera.org/account/accomplishments/records/CJUHJXXSDZVJ)]
 
-![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c3-iot-spz.JPG "Course 1 IoT Specialization")
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c3-iot-spz.JPG "Course 3 IoT Specialization")
 
 ##### 4. The Raspberry Pi Platform and Python Programming for the Raspberry Pi [[Proof](https://www.coursera.org/account/accomplishments/records/58QH5UBEQYUH)]
 
-![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c4-iot-spz.JPG "Course 1 IoT Specialization")
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c4-iot-spz.JPG "Course 4 IoT Specialization")
 
 
 ### Internet of Things (IoT) MicroMasters by Curtin University on [edX](https://www.edx.org/micromasters/curtinx-internet-of-things-iot) -- *Not Completed*
 
 ##### 1. Introduction to the Internet of Things (IoT) [[Proof](https://courses.edx.org/certificates/b1d59bb32bf9433cbd8bda72980fb79a)]
 
-![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-micromasters/c4-iot-spz.JPG "Course 1 IoT MicroMasters")
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-micromasters/curtin-iot1x.JPG "Course 1 IoT MicroMasters")
 
 ##### 2. IoT Programming and Big Data [[Proof](https://courses.edx.org/certificates/6d2809c265a14725a8fd5ec62a6e6361)]
 
-![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-micromasters/c4-iot-spz.JPG "Course 4 IoT MicroMasters")
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-micromasters/curtin-iot4x.JPG "Course 4 IoT MicroMasters")
 
