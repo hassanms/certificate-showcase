@@ -2,6 +2,13 @@
 This is a showcase of certificates that I have been awarded on completion of several MOOCs from different platforms.
 
 
+### Data Science Specialization by John Hopkins University on [Coursera](https://www.coursera.org/specializations/jhu-data-science) -- *In Progress*
+
+##### 1. Data Scientist's Toolbox [[Proof](https://www.coursera.org/account/accomplishments/records/BFZL3YQC9QW6)]
+
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/data-science-specialization/c1-ds-spz.JPG "Course 1 Data Science Specialization")
+
+
 ### Deep Learning Specialization by deeplearning.ai on [Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ![alt-text](https://github.com/hassanms/certificate-showcase/blob/master/deep-learning-specialization/dl.JPG "Deep Learning Specialization")
