@@ -48,7 +48,7 @@ Please visit [this](https://courses.edx.org/certificates/be039f974c594b2e88c038f
 
 ![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c4-iot-spz.JPG "Course 4 IoT Specialization")
 
-##### 5. Interfacing with Raspberry Pi [[Proof](https://www.coursera.org/account/accomplishments/records/3F3G97PRMX4R)]
+##### 5. Interfacing with the Raspberry Pi [[Proof](https://www.coursera.org/account/accomplishments/records/3F3G97PRMX4R)]
 
 ![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c5-iot-spz.PNG "Course 5 IoT Specialization")
 
