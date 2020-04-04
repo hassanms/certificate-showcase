@@ -50,7 +50,7 @@ Please visit [this](https://courses.edx.org/certificates/be039f974c594b2e88c038f
 
 ##### 5. Interfacing with Raspberry Pi [[Proof](https://www.coursera.org/account/accomplishments/records/3F3G97PRMX4R)]
 
-![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c5-iot-spz.JPG "Course 5 IoT Specialization")
+![alt text](https://github.com/hassanms/certificate-showcase/blob/master/iot-specialization/c5-iot-spz.PNG "Course 5 IoT Specialization")
 
 
 ### Internet of Things (IoT) MicroMasters by Curtin University on [edX](https://www.edx.org/micromasters/curtinx-internet-of-things-iot) -- *Not Completed*
